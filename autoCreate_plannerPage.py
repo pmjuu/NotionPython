@@ -1,4 +1,3 @@
-import os
 from notion.client import *
 from notion.block import *
 import datetime as dt

@@ -1,4 +1,4 @@
-# Notion - Python API 활용
+# Notion - Python API 활용하기
 참고자료 [Unofficial Python 3 client for Notion.so API v3](https://github.com/jamalex/notion-py)
 ### 추가 설명
 MY_TOKEN 은 개별적으로 발급받으면 됩니다.   
